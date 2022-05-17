@@ -1,4 +1,4 @@
-**current status: incomplete**
+# **current status: incomplete**
 
 # A Sonic Screwdriver?  
 Well sort of. This is based on the Adafruit TB-B-Gone [(Github)](https://github.com/adafruit/TV-B-Gone-kit) [(website)](https://www.adafruit.com/product/73) which is a very cool design. I simply intend to modify it slightly to also light up an LED, make a buzzing noise and fit inside a little chassis.  
